@@ -8,7 +8,14 @@ selenium grid service.
 To run selenium grid hub run `./hub.sh`
 
 # Node
+
 To run node run `./node.sh`
 
 # configuration
+
 Node configuration can be found at `config.json` file
+
+# Latest version
+Selenium : 2.41.0
+
+chromedriver : 2.10
